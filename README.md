@@ -14,7 +14,7 @@ A versatile programmer with skills in **Web Development**, **Web Design**,** AI-
 🌐 Connect with me
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_itzz_rahuman___/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230066C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahuman-t-07392b375/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/7eDjnM5FQD/)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rahuman0507)  
