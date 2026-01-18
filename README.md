@@ -65,12 +65,5 @@ I enjoy learning new technologies, exploring **AI-assisted tools**, and turning 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spidy0519&layout=compact&theme=radical)
 
----
-
-⭐ **Think • Build • Run**
-
-> GitHub username will be added later
-
----
 
 ⭐ **Think • Build • Run**
