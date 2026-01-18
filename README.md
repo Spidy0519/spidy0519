@@ -59,7 +59,6 @@ I enjoy learning new technologies, exploring **AI-assisted tools**, and turning 
 * Building practical, real-world projects  
 
 ---
-
 ### 📊 GitHub Stats
 
 ![Spidy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=spidy0519&show_icons=true&theme=radical)
